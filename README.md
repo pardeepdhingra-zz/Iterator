@@ -4,7 +4,8 @@
 [pluralize](https://www.npmjs.com/package/pluralize)
 ####DEMO
 
-```import React, { Component } from 'react';
+`
+import React, { Component } from 'react';
 import Iterator from 'iterator'
 
 class Post = ({post}) =>  {
@@ -47,4 +48,4 @@ class Demo extends Component {
 }
 
 export default Demo;
-```
+`
