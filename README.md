@@ -20,8 +20,6 @@ class Post = ({post}) =>  {
   }
 }
 
-export default IterateItem;
-
 class Demo extends Component {
   render() {
     let sampleData = [
