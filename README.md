@@ -1,10 +1,11 @@
-#Iterator
+# Iterator
 
 *Dependencies:*
 [pluralize](https://www.npmjs.com/package/pluralize)
-####DEMO
 
-`
+*DEMO:*
+
+```
 import React, { Component } from 'react';
 import Iterator from 'iterator'
 
@@ -48,4 +49,4 @@ class Demo extends Component {
 }
 
 export default Demo;
-`
+```
