@@ -7,17 +7,15 @@
 
 ```
 import React, { Component } from 'react';
-import Iterator from 'iterator'
+import Iterator from 'iterator';
 
-class Post = ({post}) =>  {
-  render() {
-    return (
-      <div>
-        <h1>{post.title}</h1>
-        <p>{post.content}</p>
-      </div>
-    );
-  }
+const Post = ({post}) =>  {
+  return (
+    <div>
+      <h1>{post.title}</h1>
+      <p>{post.content}</p>
+    </div>
+  );
 }
 
 class Demo extends Component {
