@@ -7,7 +7,7 @@
 
 ```
 import React, { Component } from 'react';
-import Iterator from 'iterator';
+import Iterator from 'iterateit';
 
 const Post = ({post}) =>  {
   return (

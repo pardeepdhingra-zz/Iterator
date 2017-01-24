@@ -1,5 +1,5 @@
 {
-  "name": "iterator",
+  "name": "iterateit",
   "version": "1.0.1",
   "description": "Iterator to iterate over array and return singular object in each iteration",
   "main": "index.js",
