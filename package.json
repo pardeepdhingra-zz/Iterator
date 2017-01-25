@@ -1,6 +1,6 @@
 {
   "name": "iterateit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Iterator to iterate over array and return singular object in each iteration",
   "main": "index.js",
   "author": "Pardeep Dhingra",
